@@ -1,0 +1,1 @@
+"""SCRIMS points calculator package."""
